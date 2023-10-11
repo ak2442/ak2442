@@ -6,7 +6,7 @@ export const pronouns = "he/him"
 export const website = "https://ak2442.github.io"
 
 // About
-export const about = "An adventurous man working as a safety inspector with a quirky sense of humor. Husband to Louis Griffin. Father of Chris, Brian, and Stewie."
+export const about = "A passionate Software Engineer building security tools that mitigates security threats of multiple enterprise organisations."
 
 // Work Experience --> #work section
 export const work = [

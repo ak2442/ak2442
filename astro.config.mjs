@@ -5,6 +5,7 @@ import alpinejs from "@astrojs/alpinejs";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://ak2442.github.io',
   integrations: [tailwind(), alpinejs()],
   output: 'server',
   adapter: vercel({

@@ -17,7 +17,7 @@ export const work = [
 		org: "miniOrange Inc.",
 		org_url: "https://miniorange.com",
 		location: "Pune, Maharastra, India",
-		// skills: "Safety Inspection, Risk Assessment, Emergency Response"
+		skills: ""
 	},
 	{
 		from: "2023",
@@ -26,7 +26,7 @@ export const work = [
 		org: "miniOrange Inc.",
 		org_url: "https://miniorange.com",
 		location: "Pune, Maharastra, India",
-		// skills: "Safety Inspection, Risk Assessment, Emergency Response"
+		skills: ""
 	}
 ]
 
